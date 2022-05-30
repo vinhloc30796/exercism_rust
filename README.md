@@ -12,3 +12,4 @@ Just my attempt at solving the [Exercism Rust track](https://exercism.io/tracks/
 - [Semi Structured Logs](https://exercism.org/tracks/rust/exercises/semi-structured-logs)
 - [Sublist](https://exercism.org/tracks/rust/exercises/sublist)
 - [Health Statistics](https://exercism.org/tracks/rust/exercises/health-statistics)
+- [Resistor Color](https://exercism.org/tracks/rust/exercises/resistor-color)
