@@ -13,3 +13,4 @@ Just my attempt at solving the [Exercism Rust track](https://exercism.io/tracks/
 - [Sublist](https://exercism.org/tracks/rust/exercises/sublist)
 - [Health Statistics](https://exercism.org/tracks/rust/exercises/health-statistics)
 - [Resistor Color](https://exercism.org/tracks/rust/exercises/resistor-color)
+- [Clock](https://exercism.org/tracks/rust/exercises/clock)
