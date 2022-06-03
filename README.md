@@ -15,3 +15,4 @@ Just my attempt at solving the [Exercism Rust track](https://exercism.io/tracks/
 - [Resistor Color](https://exercism.org/tracks/rust/exercises/resistor-color)
 - [Clock](https://exercism.org/tracks/rust/exercises/clock)
 - [A Short Fibonacci Sequence](https://exercism.org/tracks/rust/exercises/short-fibonacci)
+- [Low-Power Embedded Game](https://exercism.org/tracks/rust/exercises/low-power-embedded-game)
