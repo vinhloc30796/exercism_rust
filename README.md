@@ -18,3 +18,4 @@ Just my attempt at solving the [Exercism Rust track](https://exercism.io/tracks/
 - [Low-Power Embedded Game](https://exercism.org/tracks/rust/exercises/low-power-embedded-game)
 - [Role-Playing Game](https://exercism.org/tracks/rust/exercises/role-playing-game)
 - [Magazine Cutout](https://exercism.org/tracks/rust/exercises/magazine-cutout)
+- [RPN Calculator](https://exercism.org/tracks/rust/exercises/rpn-calculator)
